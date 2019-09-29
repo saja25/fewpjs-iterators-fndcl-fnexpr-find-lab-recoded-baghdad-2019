@@ -9,7 +9,7 @@ function superbowlWin(arr){
   if (search===undefined){
     return search;
   }else{
-    return search.year;
+    return arr.year;
   }
   return arr;
 }
